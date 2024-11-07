@@ -9,13 +9,13 @@ A Pathfinding*: The A* algorithm is used to find the shortest path between a sta
 Interactive Visualization: Users can click on the image to select start and goal points. The path and graph network are visualized on the image with the graph in red and the path in green.
 
 ## Requirements
-Python 3.x
-Required Python packages:
-opencv-python (for image manipulation)
-numpy (for numerical operations)
-matplotlib (for visualization)
-scikit-learn (for k-nearest neighbors)
-heapq (for A* algorithm)
+1. Python 3.x
+2. Required Python packages:
+3. opencv-python (for image manipulation)
+4. numpy (for numerical operations)
+5. matplotlib (for visualization)
+6. scikit-learn (for k-nearest neighbors)
+7. heapq (for A* algorithm)
 
 
 To install the required packages, you can use pip:
